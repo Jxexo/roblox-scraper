@@ -1,4 +1,2 @@
 # roblox-scraper
-Download the ZIP file then extarct it
-then run the python file
-then everything should be easy for u to get done fr
+Download the ZIP file, extract it, and run the Python file. After that, everything should be straightforward for you to complete.
